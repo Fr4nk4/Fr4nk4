@@ -1,16 +1,24 @@
-## Hi there 👋
+## About Me
 
-<!--
-**Fr4nk4/Fr4nk4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🎓 Third-year Information Security student at University of Information Technology (UIT) - VNU-HCM
+* 🔍 Seeking a SOC internship
+* 🔐 Passionate about security
+monitoring, digital forensics, and incident response
+* 🛡️ Exploring SOC, SIEM, and threat hunting
+* 📚 Always learning and building
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learning Journey
+
+Currently studying:
+
+* Intrusion Detection and Prevention Systems
+* Digital Forensics
+* Blockchain: Fundamentals, Applications and Security
+* Risk and Security Management in Enterprise
+* Malware Analysis Techniques
+
+---
+
+> “Security is a continuous process of learning, testing, and improving.”
