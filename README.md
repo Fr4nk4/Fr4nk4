@@ -1,6 +1,6 @@
 ## About Me
 
-* 🎓 Third-year Information Security student at University of Information Technology (UIT) - VNU-HCM
+* 🎓 Third-year Information Security student
 * 🔍 Seeking a SOC internship
 * 🔐 Passionate about security
 monitoring, digital forensics, and incident response
